@@ -66,7 +66,7 @@ Decimal
 
   It is the standard today.
 
-  Example: 20 octal_ is 16 decimal_
+  Example: 20 octal_ is 16 decimal_.
 
 .. _binary:
 
@@ -76,7 +76,7 @@ Binary
   have two digits, your system can be called binary,
   but it is conventional to use 0 and 1.
 
-  Example: 12 octal_ is 1010 binary_
+  Example: 12 octal_ is 1010 binary_.
 
 .. _octal:
 
@@ -86,7 +86,7 @@ Octal
   have eight digits, your system can be called octal,
   but it is conventional to use from 0 to 7.
 
-  Example: 80 decimal_ is 120 octal_
+  Example: 80 decimal_ is 120 octal_.
 
 .. _hexadecimal:
 .. _hex:
@@ -98,7 +98,7 @@ Hexadecimal (or Hex)
   hexadecimal, but it is conventional to use from
   0 to 9 and A to F.
 
-  Example: 123 decimal_ is 7B hex_
+  Example: 123 decimal_ is 7B hex_.
 
 Data
 ----
@@ -107,7 +107,7 @@ Data
 .. _value:
 
 Value
-  A single piece of data, like ``3`` or ``'Fluffy'``
+  A single piece of data, like ``3`` or ``'Fluffy'``.
 
 .. class:: basic data
 .. _literal:
@@ -269,10 +269,11 @@ Object-oriented
 Object
   A logical grouping of functions (called "methods_"
   in this context) and variables
-  (called "attributes_" in this context).
+  (called "attributes_"
+  in this context).
 
 .. class:: basic object-oriented
-.. _method:
+.. _method: 
 .. _methods:
 
 Method
@@ -296,7 +297,7 @@ Method
 Attribute
   A piece of data that belongs to an object.
   This object, ``my_cat``, has a ``name`` attribute
-  with the value ``'Agamemnon'``.``
+  with the value ``'Agamemnon'``.
 
   ::
 
@@ -315,7 +316,7 @@ Class
 .. class:: basic object-oriented
 
 Instance
-  An object_ of a given class_.  `my_cat` is an
+  An object_ of a given class_:  `my_cat` is an
   *instance* of the class `Cat`.
 
 .. class:: intermediate object-oriented
@@ -342,7 +343,7 @@ Dunder
 
 Magic Method
   Methods that can be used to change the normal
-  behavior of an object. HINT : in Python, everything is an object.
+  behavior of an object. HINT: in Python, everything is an object.
 
 Program Structure
 -----------------
@@ -391,7 +392,7 @@ Editor
   Abbreviation for Integrated Development Environment.
   A kind of text editor_ with programming-related
   superpowers; a program that lets you build more programs.
-  Examples include Eclipse, Sublime, Wingware, and IDLE
+  Examples include Eclipse, Sublime, Wingware, and IDLE.
 
 .. class:: basic tools
 
@@ -468,7 +469,7 @@ Bug
 .. class:: basic techniques
 
 Debug
-  Find and fix bugs_ in code_
+  Find and fix bugs_ in code_.
 
 .. class:: basic techniques
 
@@ -516,7 +517,7 @@ Issue
 
 Bug report
   A category of issue_ for notifying the programmers
-  of a bug_
+  of a bug_.
 
 .. class:: basic version_control
 .. _repository:
@@ -550,7 +551,7 @@ Fork
   should be developed. A project that started this
   way, by basing itself over another project's
   source, is called a fork.
-  (i. e. Pale Moon is a fork of Mozilla Firefox)
+  (i. e. Pale Moon is a fork of Mozilla Firefox.)
   
 .. _pull request:
 .. _pull requests:
@@ -569,7 +570,7 @@ Git
 .. class:: intermediate version_control
 
 Mercurial
-  Another version control program
+  Another version control program.
 
 .. class:: basic version_control
 
@@ -681,7 +682,7 @@ Operations
 .. class:: basic operations
 
 Operations
-  Activities related to deploy_ing software and
+  Activities related to deploying software and
   keeping it running on its destination servers.
 
 .. class:: basic operations
@@ -725,12 +726,12 @@ Web
 HTML
   Markup language used by default by most of the Web.
   Has tags for various kinds of elements, graphical
-  or not. Stands for Hyper Text Markup Language
+  or not. Stands for Hyper Text Markup Language.
 
 CSS
   Descriptive language to style markup elements.
   Usually used with HTML to style its various
-  tags. Stands for Cascading Style Sheet
+  tags. Stands for Cascading Style Sheet.
 
 More words to define
 --------------------
